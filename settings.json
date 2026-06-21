@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gogpromanTbRg.aternos.me:",
+    "ip": "gogpromanTbRg.aternos.me",
     "port": 42288,
     "version": "",
     "try-creative": false
