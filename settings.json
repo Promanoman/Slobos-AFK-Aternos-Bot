@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Isik",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "gogpromanTbRg.aternos.me",
     "port": 42288,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
