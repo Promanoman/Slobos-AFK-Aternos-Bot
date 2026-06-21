@@ -1,7 +1,7 @@
 {
   "name": "Proman",
   "bot-account": {
-    "username": "Isik",
+    "username": "MrKeyboard saka saka ben botum 7 24 sunucu acik kalsindiye varim",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "I'm a pro player",
         "Subcribe to Ruzopromano!",
-        "I like to play Minecraft!"
+        "I like to play Minecraft like a pro!"
       ]
     },
     "chat-log": true,
