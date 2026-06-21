@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Proman",
   "bot-account": {
     "username": "Isik",
     "password": "",
@@ -78,7 +78,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
